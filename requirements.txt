@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+tqdm
+wordcloud
+yandex-music
+scikit-learn
+requests
+pymorphy3
+streamlit
