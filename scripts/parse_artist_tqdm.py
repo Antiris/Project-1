@@ -4,7 +4,7 @@ import requests
 from tqdm import tqdm
 
 # Set session ID from Yandex Music (Required Yandex Plus)
-SESSION_ID = 'y0_AgAAAABBBGWgAAG8XgAAAADfocBAD7JxjZEdRXWMa4a8w1BbQlHxIPY'
+SESSION_ID = 'token'
 
 client = Client(SESSION_ID).init()
 
